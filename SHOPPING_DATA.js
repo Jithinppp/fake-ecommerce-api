@@ -23,14 +23,7 @@ const SHOPPING_DATA = [
       "https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     price: 99,
   },
-  {
-    id: 4,
-    category: "shoes",
-    title: "Adidas white sike sneaker",
-    image:
-      "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    price: 976,
-  },
+
   {
     id: 4,
     category: "shoes",
