@@ -121,7 +121,7 @@ const SHOPPING_DATA = [
     price: 2343,
   },
   {
-    id: 15,
+    id: 16,
     category: "smartphones",
     title: "Pixel 3a",
     image:
@@ -129,7 +129,7 @@ const SHOPPING_DATA = [
     price: 6886,
   },
   {
-    id: 16,
+    id: 17,
     category: "smartphones",
     title: "Pixel 4a",
     image:
@@ -137,7 +137,7 @@ const SHOPPING_DATA = [
     price: 2321,
   },
   {
-    id: 17,
+    id: 37,
     category: "smartphones",
     title: "realme xt",
     image:
